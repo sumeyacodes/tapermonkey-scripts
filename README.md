@@ -1,1 +1,1 @@
-My UI scripts on Tapermonkey
+My UI scripts on Tampermonkey
